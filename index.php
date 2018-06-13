@@ -8,7 +8,7 @@
 <body>
 <div>
     <?php
-        echo "<strong>Oi</strong> <h1>mundo</h1>!"
+        echo "<strong>Hello</strong> <h1>World</h1>!"
     ?>
 </div>
 </body>
